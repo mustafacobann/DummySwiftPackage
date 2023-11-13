@@ -14,5 +14,5 @@ This is a dummy package I created while tinkering with swift package manager, so
 ```swift
 import DummySwiftPackage
 
-sayHello("Mustafa")
+sayHello(to: "Mustafa")
 ```
